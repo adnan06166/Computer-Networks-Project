@@ -1,7 +1,7 @@
 # Computer-Networks-Project
 
 
-# Project Details
+## Project Details ##
 
 - Create a network of at least 3 switches and 9 PCs and provide connections between the devices there.
 
